@@ -7,9 +7,10 @@ sortable_tables:
 
 <link rel="stylesheet" href="/assets/armor.css">
 
-This is a list of upgradable armor only. Hover over icons (or tap
-anywhere on the table cell, on mobile devices) to see full item names.
-For uncolored dragon icons, see below.
+This is a list of upgradable armor only. It's also an experiment in
+displaying this information compactly using icons! Hover over them (or
+tap anywhere on the table cell, on mobile devices) to see full item
+names. For uncolored dragon icons, see below.
 
 <table id="armor">
   <tr data-sort-method="none">
