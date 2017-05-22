@@ -82,6 +82,7 @@ th.corner, td {
   /* not a child of the existing document so doesn't inherit font, I guess */
   font-family: 'Cantarell', sans-serif;
   font-size: 8pt;
+  color: #333;
   content: " " attr(title);
   user-select: none;
 }
