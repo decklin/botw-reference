@@ -1,0 +1,5 @@
+---
+---
+{% for icon in site.data.item_icons %}
+.item-{{ icon[0] | slugify }} { color: {{ icon[1].color }}; }
+{% endfor %}

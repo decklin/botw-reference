@@ -1,0 +1,79 @@
+html {
+  background: white;
+  color: black;
+  font-family: 'Cantarell', sans-serif;
+  font-size: 12pt;
+  background: url("hyrule-bg-light.jpg") #dadfd9 repeat-y center;
+  margin-left: 1em; margin-right: 1em;
+}
+
+body { width: 48em; margin-left: auto; margin-right: auto; }
+@media screen and (max-width: 48em) { body, table { width: 100%; } }
+@media screen and (max-width: 48em) { html { font-size: 11pt; } }
+@media screen and (max-width: 42em) { html { font-size: 10pt; } }
+@media screen and (max-width: 36em) { html { font-size: 9pt; } }
+@media screen and (max-width: 30em) { html { font-size: 8pt; } }
+
+.nav {
+  width: 80%;
+}
+.nav td {
+  text-align: center;
+}
+
+table {
+  margin: 1.67em auto;
+}
+th, td {
+  padding: 0.4em;
+}
+
+table {
+  background: #152d31;
+}
+#defense-schedules th, #armor th.cost {
+  min-width: 4em;
+  text-align: center;
+}
+#armor td.cost {
+  text-align: right;
+}
+#defense-schedules td, #armor .max-defense {
+  text-align: center;
+}
+#armor .bonus, #armor .set-bonus {
+  max-width: 9em;
+}
+th {
+  background: #d3c9d1;
+}
+th.corner, td {
+  background: #f2f2f2;
+}
+.highlight-blessing td {
+  background: #d2dbe6;
+}
+.highlight-combat td {
+  background: #e6d2e1;
+}
+#arrows .shop, #shrines .completed, #armor .name {
+  background: #e4dad1;
+  text-align: right;
+}
+#arrows .good-price {
+  background: #d3dbcf;
+}
+#arrows .bad-price {
+  background: #eac7c7;
+}
+
+#shrines .trial-name, #shrines .quest-location {
+  font-size: 66.7%;
+}
+#shrines .quest {
+  font-size: 75%;
+}
+
+#armor .bonus, #armor .set-bonus {
+  font-size: 75%;
+}

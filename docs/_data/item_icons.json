@@ -1,0 +1,342 @@
+{
+  "Voltfruit": {
+    "glyph": "ra-apple",
+    "color": "#e243ad"
+  },
+  "Sunshroom": {
+    "glyph": "ra-super-mushroom",
+    "disambig": "orange",
+    "color": "#eaa413"
+  },
+  "Zapshroom": {
+    "glyph": "ra-super-mushroom",
+    "disambig": "yellow",
+    "color": "#e7dd23"
+  },
+  "Rushroom": {
+    "glyph": "ra-super-mushroom",
+    "disambig": "purple",
+    "color": "#986eab"
+  },
+  "Silent Shroom": {
+    "glyph": "ra-super-mushroom",
+    "disambig": "white",
+    "color": "#bcd1e9"
+  },
+  "Swift Carrot": {
+    "glyph": "ra-carrot",
+    "color": "#f79c16"
+  },
+  "Warm Safflina": {
+    "glyph": "ra-grass",
+    "color": "#e68cd9"
+  },
+  "Swift Violet": {
+    "glyph": "ra-flowers",
+    "color": "#b68fe5"
+  },
+  "Blue Nightshade": {
+    "glyph": "ra-daisy",
+    "color": "#6391b5"
+  },
+  "Silent Princess": {
+    "glyph": "ra-flower",
+    "color": "#9191e0"
+  },
+  "Courser Bee Honey": {
+    "glyph": "ra-honeycomb",
+    "color": "#e7be39"
+  },
+  "Acorn": {
+    "glyph": "ra-acorn",
+    "color": "#af8373"
+  },
+  "Star Fragment": {
+    "glyph": "ra-sun",
+    "color": "#e5cd00"
+  },
+  "Dragon Scales": {
+    "glyph": "ra-ocean-emblem",
+    "color": "black"
+  },
+  "Dragon Claws": {
+    "glyph": "ra-bird-claw",
+    "color": "black"
+  },
+  "Dragon Fangs": {
+    "glyph": "ra-dragon",
+    "color": "black"
+  },
+  "Dragon Horns": {
+    "glyph": "ra-crown-of-thorns",
+    "color": "black"
+  },
+  "Naydra's Scale": {
+    "glyph": "ra-ocean-emblem",
+    "disambig": "blue",
+    "color": "blue"
+  },
+  "Shard of Naydra's Horn": {
+    "glyph": "ra-crown-of-thorns",
+    "disambig": "blue",
+    "color": "#6282d4"
+  },
+  "Shard of Farosh's Horn": {
+    "glyph": "ra-crown-of-thorns",
+    "disambig": "green",
+    "color": "#72a168"
+  },
+  "Shard of Dinraal's Horn": {
+    "glyph": "ra-crown-of-thorns",
+    "disambig": "red",
+    "color": "#da663d"
+  },
+  "Hearty Bass": {
+    "glyph": "ra-fish",
+    "disambig": "blue",
+    "color": "#619bab"
+  },
+  "Hyrule Bass": {
+    "glyph": "ra-fish",
+    "disambig": "green",
+    "color": "#809f6f"
+  },
+  "Stealthfin Trout": {
+    "glyph": "ra-fish",
+    "disambig": "purple",
+    "color": "#5d50e2"
+  },
+  "Sneaky River Snail": {
+    "glyph": "ra-snail",
+    "color": "#a99a6a"
+  },
+  "Smotherwing Butterfly": {
+    "glyph": "ra-butterfly",
+    "color": "#804b40"
+  },
+  "Sunset Firefly": {
+    "glyph": "ra-fairy",
+    "color": "#b669c6"
+  },
+  "Energetic Rhino Beetle": {
+    "glyph": "ra-beetle",
+    "color": "#c6c52f"
+  },
+  "Hot-Footed Frog": {
+    "glyph": "ra-hood",
+    "color": "#93bb78"
+  },
+  "Hightail Lizard": {
+    "glyph": "ra-gecko",
+    "disambig": "brown",
+    "color": "#8a9073"
+  },
+  "Fireproof Lizard": {
+    "glyph": "ra-gecko",
+    "disambig": "red",
+    "color": "#8c3e3e"
+  },
+  "Flint": {
+    "glyph": "ra-crystals",
+    "color": "#778188"
+  },
+  "Amber": {
+    "glyph": "ra-gem",
+    "color": "#e5b517"
+  },
+  "Opal": {
+    "glyph": "ra-droplet",
+    "color": "#ceb0bb"
+  },
+  "Luminous Stone": {
+    "glyph": "ra-crystal-cluster",
+    "color": "#5f7890"
+  },
+  "Topaz": {
+    "glyph": "ra-gold-bar",
+    "color": "#c8be7d"
+  },
+  "Ruby": {
+    "glyph": "ra-emerald",
+    "color": "#d01313"
+  },
+  "Sapphire": {
+    "glyph": "ra-sapphire",
+    "color": "#5060bd"
+  },
+  "Diamond": {
+    "glyph": "ra-diamond",
+    "color": "#a7a7a7"
+  },
+  "Bokoblin Horn": {
+    "glyph": "ra-wolf-head",
+    "color": "#c1ad86"
+  },
+  "Bokoblin Fang": {
+    "glyph": "ra-bone-bite",
+    "color": "#ccbc8b"
+  },
+  "Bokoblin Guts": {
+    "glyph": "ra-bleeding-hearts",
+    "disambig": "purple",
+    "color": "#9a519a"
+  },
+  "Moblin Horn": {
+    "glyph": "ra-spiral-shell",
+    "color": "#bbb98a"
+  },
+  "Moblin Fang": {
+    "glyph": "ra-blade-bite",
+    "color": "#9a9289"
+  },
+  "Moblin Guts": {
+    "glyph": "ra-bleeding-hearts",
+    "disambig": "cyan",
+    "color": "#53a79a"
+  },
+  "Lizalfos Horn": {
+    "glyph": "ra-horns",
+    "color": "#b1ada0"
+  },
+  "Lizalfos Talon": {
+    "glyph": "ra-spiked-tentacle",
+    "color": "#b1ada0"
+  },
+  "Lizalfos Tail": {
+    "glyph": "ra-suckered-tentacle",
+    "disambig": "green",
+    "color": "#669a5e"
+  },
+  "Icy Lizalfos Tail": {
+    "glyph": "ra-suckered-tentacle",
+    "disambig": "blue",
+    "color": "#909dbd"
+  },
+  "Red Lizalfos Tail": {
+    "glyph": "ra-suckered-tentacle",
+    "disambig": "red",
+    "color": "#bd2f2b"
+  },
+  "Yellow Lizalfos Tail": {
+    "glyph": "ra-suckered-tentacle",
+    "disambig": "yellow",
+    "color": "#dada7b"
+  },
+  "Lynel Horn": {
+    "glyph": "ra-lion",
+    "color": "#807f79"
+  },
+  "Lynel Hoof": {
+    "glyph": "ra-horseshoe",
+    "color": "#94938e"
+  },
+  "Lynel Guts": {
+    "glyph": "ra-bleeding-hearts",
+    "disambig": "red",
+    "color": "#b3284b"
+  },
+  "Chuchu Jelly": {
+    "glyph": "ra-gloop",
+    "disambig": "blue",
+    "color": "#1ac4ff"
+  },
+  "White Chuchu Jelly": {
+    "glyph": "ra-gloop",
+    "disambig": "white",
+    "color": "#a8adb9"
+  },
+  "Red Chuchu Jelly": {
+    "glyph": "ra-gloop",
+    "disambig": "red",
+    "color": "#f17410"
+  },
+  "Yellow Chuchu Jelly": {
+    "glyph": "ra-gloop",
+    "disambig": "yellow",
+    "color": "#cce753"
+  },
+  "Keese Wing": {
+    "glyph": "ra-batwings",
+    "disambig": "brown",
+    "color": "#9a837d"
+  },
+  "Ice Keese Wing": {
+    "glyph": "ra-batwings",
+    "disambig": "blue",
+    "color": "#a2b9f1"
+  },
+  "Fire Keese Wing": {
+    "glyph": "ra-batwings",
+    "disambig": "red",
+    "color": "#ef9937"
+  },
+  "Electric Keese Wing": {
+    "glyph": "ra-batwings",
+    "disambig": "yellow",
+    "color": "#d8cd63"
+  },
+  "Keese Eyeball": {
+    "glyph": "ra-eyeball",
+    "disambig": "brown",
+    "color": "#bb462f"
+  },
+  "Octorok Tentacle": {
+    "glyph": "ra-tentacle",
+    "color": "#e14900"
+  },
+  "Octorok Eyeball": {
+    "glyph": "ra-eyeball",
+    "disambig": "purple",
+    "color": "purple"
+  },
+  "Octo Balloon": {
+    "glyph": "ra-octopus",
+    "color": "#63b404"
+  },
+  "Molduga Fin": {
+    "glyph": "ra-dragon-wing",
+    "color": "#ca6482"
+  },
+  "Molduga Guts": {
+    "glyph": "ra-bleeding-hearts",
+    "disambig": "green",
+    "color": "#72a13b"
+  },
+  "Hinox Toenail": {
+    "glyph": "ra-footprint",
+    "color": "#9b9d8c"
+  },
+  "Hinox Tooth": {
+    "glyph": "ra-tooth",
+    "color": "#bfbba2"
+  },
+  "Hinox Guts": {
+    "glyph": "ra-bleeding-hearts",
+    "disambig": "yellow",
+    "color": "#cec621"
+  },
+  "Ancient Screw": {
+    "glyph": "ra-nails",
+    "color": "#bfbc97"
+  },
+  "Ancient Spring": {
+    "glyph": "ra-alligator-clip",
+    "color": "#bfbc97"
+  },
+  "Ancient Gear": {
+    "glyph": "ra-gears",
+    "color": "#bfbc97"
+  },
+  "Ancient Shaft": {
+    "glyph": "ra-cog-wheel",
+    "color": "#bfbc97"
+  },
+  "Ancient Core": {
+    "glyph": "ra-reactor",
+    "color": "#bfbc97"
+  },
+  "Giant Ancient Core": {
+    "glyph": "ra-tesla",
+    "color": "#bfbc97"
+  }
+}

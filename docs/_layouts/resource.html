@@ -1,0 +1,14 @@
+{% include head.html %}
+
+{% include nav.html %}
+
+<h1>{{page.title}}</h1>
+
+{{content}}
+
+{% include nav.html %}
+
+<script src="assets/vendor/tablesort-with-number.min.js"></script>
+{% for table in page.sortable_tables %}
+<script>new Tablesort(document.getElementById('{{ table }}'));</script>
+{% endfor %}

@@ -1,0 +1,1312 @@
+{
+  "Champion's Tunic": {
+    "max": 32,
+    "bonus": "Reveal Enemy HP",
+    "upgrades": [
+      [
+        {
+          "item": "Silent Princess",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Silent Princess",
+          "n": 3
+        },
+        {
+          "item": "Shard of Farosh's Horn",
+          "n": 2
+        }
+      ],
+      [
+        {
+          "item": "Silent Princess",
+          "n": 3
+        },
+        {
+          "item": "Shard of Naydra's Horn",
+          "n": 2
+        }
+      ],
+      [
+        {
+          "item": "Silent Princess",
+          "n": 3
+        },
+        {
+          "item": "Shard of Dinraal's Horn",
+          "n": 2
+        }
+      ]
+    ]
+  },
+  "Hylian Set": {
+    "max": 20,
+    "upgrades": [
+      [
+        {
+          "item": "Bokoblin Horn",
+          "n": 5
+        }
+      ],
+      [
+        {
+          "item": "Bokoblin Horn",
+          "n": 8
+        },
+        {
+          "item": "Bokoblin Fang",
+          "n": 5
+        }
+      ],
+      [
+        {
+          "item": "Bokoblin Guts",
+          "n": 5
+        },
+        {
+          "item": "Bokoblin Fang",
+          "n": 10
+        }
+      ],
+      [
+        {
+          "item": "Bokoblin Guts",
+          "n": 15
+        },
+        {
+          "item": "Amber",
+          "n": 15
+        }
+      ]
+    ]
+  },
+  "Soldier's Set": {
+    "max": 28,
+    "upgrades": [
+      [
+        {
+          "item": "Chuchu Jelly",
+          "n": 5
+        },
+        {
+          "item": "Bokoblin Guts",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Keese Eyeball",
+          "n": 3
+        },
+        {
+          "item": "Moblin Guts",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Lizalfos Tail",
+          "n": 3
+        },
+        {
+          "item": "Hinox Guts",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Lynel Hoof",
+          "n": 2
+        },
+        {
+          "item": "Lynel Guts",
+          "n": 2
+        }
+      ]
+    ]
+  },
+  "Snowquill Set": {
+    "max": 20,
+    "bonus": "Cold Resistance",
+    "setbonus": "Unfreezable",
+    "upgrades": [
+      [
+        {
+          "item": "Red Chuchu Jelly",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Red Chuchu Jelly",
+          "n": 5
+        },
+        {
+          "item": "Warm Safflina",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Fire Keese Wing",
+          "n": 8
+        },
+        {
+          "item": "Sunshroom",
+          "n": 5
+        }
+      ],
+      [
+        {
+          "item": "Red Lizalfos Tail",
+          "n": 10
+        },
+        {
+          "item": "Ruby",
+          "n": 5
+        }
+      ]
+    ]
+  },
+  "Desert Voe Set": {
+    "max": 20,
+    "bonus": "Heat Resistance",
+    "setbonus": "Shock Damage Resist",
+    "upgrades": [
+      [
+        {
+          "item": "White Chuchu Jelly",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "White Chuchu Jelly",
+          "n": 5
+        },
+        {
+          "item": "Ice Keese Wing",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Icy Lizalfos Tail",
+          "n": 3
+        },
+        {
+          "item": "Ice Keese Wing",
+          "n": 8
+        }
+      ],
+      [
+        {
+          "item": "Icy Lizalfos Tail",
+          "n": 10
+        },
+        {
+          "item": "Sapphire",
+          "n": 5
+        }
+      ]
+    ]
+  },
+  "Rubber Set": {
+    "max": 20,
+    "bonus": "Shock Resistance",
+    "setbonus": "Unshockable",
+    "upgrades": [
+      [
+        {
+          "item": "Yellow Chuchu Jelly",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Yellow Chuchu Jelly",
+          "n": 5
+        },
+        {
+          "item": "Voltfruit",
+          "n": 5
+        }
+      ],
+      [
+        {
+          "item": "Yellow Lizalfos Tail",
+          "n": 5
+        },
+        {
+          "item": "Zapshroom",
+          "n": 5
+        }
+      ],
+      [
+        {
+          "item": "Yellow Lizalfos Tail",
+          "n": 10
+        },
+        {
+          "item": "Topaz",
+          "n": 10
+        }
+      ]
+    ]
+  },
+  "Flamebreaker Set": {
+    "max": 20,
+    "bonus": "Flame Guard",
+    "setbonus": "Fireproof",
+    "upgrades": [
+      [
+        {
+          "item": "Fireproof Lizard",
+          "n": 3
+        },
+        {
+          "item": "Moblin Horn",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Fireproof Lizard",
+          "n": 3
+        },
+        {
+          "item": "Moblin Fang",
+          "n": 4
+        }
+      ],
+      [
+        {
+          "item": "Smotherwing Butterfly",
+          "n": 3
+        },
+        {
+          "item": "Moblin Guts",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Smotherwing Butterfly",
+          "n": 5
+        },
+        {
+          "item": "Hinox Guts",
+          "n": 2
+        }
+      ]
+    ]
+  },
+  "Zora Set": {
+    "max": 20,
+    "bonus": "Swim Speed Up",
+    "setbonus": "Swim Dash Stamina Up",
+    "upgrades": [
+      [
+        {
+          "item": "Lizalfos Horn",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Lizalfos Talon",
+          "n": 5
+        },
+        {
+          "item": "Hyrule Bass",
+          "n": 5
+        }
+      ],
+      [
+        {
+          "item": "Lizalfos Tail",
+          "n": 5
+        },
+        {
+          "item": "Hearty Bass",
+          "n": 5
+        }
+      ],
+      [
+        {
+          "item": "Lizalfos Tail",
+          "n": 10
+        },
+        {
+          "item": "Opal",
+          "n": 15
+        }
+      ]
+    ]
+  },
+  "Stealth Set": {
+    "max": 16,
+    "bonus": "Stealth Up",
+    "setbonus": "Night Speed Up",
+    "upgrades": [
+      [
+        {
+          "item": "Blue Nightshade",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Blue Nightshade",
+          "n": 5
+        },
+        {
+          "item": "Sunset Firefly",
+          "n": 5
+        }
+      ],
+      [
+        {
+          "item": "Silent Shroom",
+          "n": 8
+        },
+        {
+          "item": "Sneaky River Snail",
+          "n": 5
+        }
+      ],
+      [
+        {
+          "item": "Silent Princess",
+          "n": 5
+        },
+        {
+          "item": "Stealthfin Trout",
+          "n": 10
+        }
+      ]
+    ]
+  },
+  "Climbing Set": {
+    "max": 20,
+    "bonus": "Climb Speed Up",
+    "setbonus": "Climbing Jump Stamina Up",
+    "upgrades": [
+      [
+        {
+          "item": "Keese Wing",
+          "n": 3
+        },
+        {
+          "item": "Rushroom",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Electric Keese Wing",
+          "n": 5
+        },
+        {
+          "item": "Hightail Lizard",
+          "n": 5
+        }
+      ],
+      [
+        {
+          "item": "Ice Keese Wing",
+          "n": 5
+        },
+        {
+          "item": "Hot-Footed Frog",
+          "n": 10
+        }
+      ],
+      [
+        {
+          "item": "Fire Keese Wing",
+          "n": 5
+        },
+        {
+          "item": "Swift Violet",
+          "n": 15
+        }
+      ]
+    ]
+  },
+  "Barbarian Set": {
+    "max": 20,
+    "bonus": "Attack Up",
+    "setbonus": "Charge Atk. Stamina Up",
+    "upgrades": [
+      [
+        {
+          "item": "Lynel Horn",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Lynel Horn",
+          "n": 5
+        },
+        {
+          "item": "Lynel Hoof",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Lynel Guts",
+          "n": 1
+        },
+        {
+          "item": "Lynel Hoof",
+          "n": 4
+        }
+      ],
+      [
+        {
+          "item": "Lynel Guts",
+          "n": 2
+        },
+        {
+          "item": "Dragon Horns",
+          "n": 1
+        }
+      ]
+    ]
+  },
+  "Radiant Set": {
+    "max": 20,
+    "bonus": "Stal Lure",
+    "setbonus": "Disguise; Bone Atk. Up",
+    "upgrades": [
+      [
+        {
+          "item": "Luminous Stone",
+          "n": 5
+        },
+        {
+          "item": "Bokoblin Guts",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Luminous Stone",
+          "n": 8
+        },
+        {
+          "item": "Moblin Guts",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Luminous Stone",
+          "n": 10
+        },
+        {
+          "item": "Molduga Guts",
+          "n": 2
+        }
+      ],
+      [
+        {
+          "item": "Luminous Stone",
+          "n": 20
+        },
+        {
+          "item": "Lynel Guts",
+          "n": 1
+        }
+      ]
+    ]
+  },
+  "Ancient Set": {
+    "max": 28,
+    "bonus": "Guardian Resist Up",
+    "setbonus": "Ancient Proficiency",
+    "upgrades": [
+      [
+        {
+          "item": "Ancient Spring",
+          "n": 5
+        },
+        {
+          "item": "Ancient Screw",
+          "n": 5
+        }
+      ],
+      [
+        {
+          "item": "Ancient Spring",
+          "n": 15
+        },
+        {
+          "item": "Ancient Gear",
+          "n": 10
+        }
+      ],
+      [
+        {
+          "item": "Ancient Shaft",
+          "n": 15
+        },
+        {
+          "item": "Ancient Core",
+          "n": 5
+        }
+      ],
+      [
+        {
+          "item": "Giant Ancient Core",
+          "n": 2
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ]
+    ]
+  },
+  "Set of the Wild": {
+    "max": 28,
+    "setbonus": "Master Sword Beam Up",
+    "upgrades": [
+      [
+        {
+          "item": "Acorn",
+          "n": 10
+        },
+        {
+          "item": "Dragon Scales",
+          "n": 2
+        }
+      ],
+      [
+        {
+          "item": "Courser Bee Honey",
+          "n": 5
+        },
+        {
+          "item": "Dragon Claws",
+          "n": 2
+        }
+      ],
+      [
+        {
+          "item": "Energetic Rhino Beetle",
+          "n": 5
+        },
+        {
+          "item": "Dragon Fangs",
+          "n": 2
+        }
+      ],
+      [
+        {
+          "item": "Star Fragment",
+          "n": 1
+        },
+        {
+          "item": "Dragon Horns",
+          "n": 2
+        }
+      ]
+    ]
+  },
+  "Sand Boots": {
+    "max": 20,
+    "bonus": "Sand Speed Up",
+    "upgrades": [
+      [
+        {
+          "item": "Molduga Fin",
+          "n": 5
+        },
+        {
+          "item": "Hightail Lizard",
+          "n": 10
+        }
+      ],
+      [
+        {
+          "item": "Molduga Fin",
+          "n": 10
+        },
+        {
+          "item": "Swift Carrot",
+          "n": 10
+        }
+      ],
+      [
+        {
+          "item": "Molduga Guts",
+          "n": 2
+        },
+        {
+          "item": "Rushroom",
+          "n": 15
+        }
+      ],
+      [
+        {
+          "item": "Molduga Guts",
+          "n": 5
+        },
+        {
+          "item": "Swift Violet",
+          "n": 15
+        }
+      ]
+    ]
+  },
+  "Snow Boots": {
+    "max": 20,
+    "bonus": "Snow Speed Up",
+    "upgrades": [
+      [
+        {
+          "item": "Octorok Tentacle",
+          "n": 5
+        },
+        {
+          "item": "Hightail Lizard",
+          "n": 10
+        }
+      ],
+      [
+        {
+          "item": "Octo Balloon",
+          "n": 5
+        },
+        {
+          "item": "Swift Carrot",
+          "n": 10
+        }
+      ],
+      [
+        {
+          "item": "Octorok Eyeball",
+          "n": 5
+        },
+        {
+          "item": "Rushroom",
+          "n": 15
+        }
+      ],
+      [
+        {
+          "item": "Naydra's Scale",
+          "n": 2
+        },
+        {
+          "item": "Swift Violet",
+          "n": 15
+        }
+      ]
+    ]
+  },
+  "Amber Earrings": {
+    "max": 28,
+    "upgrades": [
+      [
+        {
+          "item": "Amber",
+          "n": 3
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Amber",
+          "n": 10
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Amber",
+          "n": 20
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Amber",
+          "n": 30
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ]
+    ]
+  },
+  "Opal Earrings": {
+    "max": 20,
+    "bonus": "Swim Speed Up",
+    "upgrades": [
+      [
+        {
+          "item": "Opal",
+          "n": 3
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Opal",
+          "n": 8
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Opal",
+          "n": 16
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Opal",
+          "n": 20
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ]
+    ]
+  },
+  "Topaz Earrings": {
+    "max": 18,
+    "bonus": "Shock Resistance",
+    "upgrades": [
+      [
+        {
+          "item": "Topaz",
+          "n": 2
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Topaz",
+          "n": 4
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Topaz",
+          "n": 6
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Topaz",
+          "n": 10
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ]
+    ]
+  },
+  "Ruby Circlet": {
+    "max": 20,
+    "bonus": "Cold Resistance",
+    "upgrades": [
+      [
+        {
+          "item": "Ruby",
+          "n": 2
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Ruby",
+          "n": 4
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Ruby",
+          "n": 6
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Ruby",
+          "n": 10
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ]
+    ]
+  },
+  "Sapphire Circlet": {
+    "max": 20,
+    "bonus": "Heat Resistance",
+    "upgrades": [
+      [
+        {
+          "item": "Sapphire",
+          "n": 2
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Sapphire",
+          "n": 4
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Sapphire",
+          "n": 6
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Sapphire",
+          "n": 10
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ]
+    ]
+  },
+  "Diamond Circlet": {
+    "max": 28,
+    "bonus": "Guardian Resist Up",
+    "upgrades": [
+      [
+        {
+          "item": "Diamond",
+          "n": 2
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Diamond",
+          "n": 4
+        },
+        {
+          "item": "Flint",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Diamond",
+          "n": 6
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Diamond",
+          "n": 10
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ]
+    ]
+  },
+  "Sheik’s Mask": {
+    "max": 16,
+    "bonus": "Stealth Up",
+    "upgrades": [
+      [
+        {
+          "item": "Silent Princess",
+          "n": 1
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Silent Princess",
+          "n": 2
+        },
+        {
+          "item": "Star Fragment",
+          "n": 2
+        }
+      ],
+      [
+        {
+          "item": "Silent Princess",
+          "n": 3
+        },
+        {
+          "item": "Star Fragment",
+          "n": 3
+        }
+      ],
+      [
+        {
+          "item": "Silent Princess",
+          "n": 4
+        },
+        {
+          "item": "Star Fragment",
+          "n": 4
+        }
+      ]
+    ]
+  },
+  "Set of the Hero": {
+    "max": 20,
+    "setbonus": "Master Sword Beam Up",
+    "upgrades": [
+      [
+        {
+          "item": "Ruby",
+          "n": 1
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Ruby",
+          "n": 3
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Ruby",
+          "n": 5
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Ruby",
+          "n": 10
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ]
+    ]
+  },
+  "Set of the Wind": {
+    "max": 20,
+    "setbonus": "Master Sword Beam Up",
+    "upgrades": [
+      [
+        {
+          "item": "Opal",
+          "n": 3
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Opal",
+          "n": 5
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Opal",
+          "n": 10
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Opal",
+          "n": 20
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ]
+    ]
+  },
+  "Set of Time": {
+    "max": 20,
+    "setbonus": "Master Sword Beam Up",
+    "upgrades": [
+      [
+        {
+          "item": "Amber",
+          "n": 3
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Amber",
+          "n": 5
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Amber",
+          "n": 15
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Amber",
+          "n": 30
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ]
+    ]
+  },
+  "Set of Twilight": {
+    "max": 20,
+    "setbonus": "Master Sword Beam Up",
+    "upgrades": [
+      [
+        {
+          "item": "Topaz",
+          "n": 1
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Topaz",
+          "n": 3
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Topaz",
+          "n": 5
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Topaz",
+          "n": 10
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ]
+    ]
+  },
+  "Fierce Deity Set": {
+    "max": 20,
+    "bonus": "Attack Up",
+    "setbonus": "Charge Atk. Stamina Up",
+    "upgrades": [
+      [
+        {
+          "item": "Hinox Toenail",
+          "n": 5
+        },
+        {
+          "item": "Dragon Scales",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Hinox Tooth",
+          "n": 5
+        },
+        {
+          "item": "Dragon Claws",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Hinox Guts",
+          "n": 5
+        },
+        {
+          "item": "Dragon Fangs",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Lynel Guts",
+          "n": 5
+        },
+        {
+          "item": "Dragon Horns",
+          "n": 1
+        }
+      ]
+    ]
+  },
+  "Set of the Sky": {
+    "max": 20,
+    "setbonus": "Master Sword Beam Up",
+    "upgrades": [
+      [
+        {
+          "item": "Sapphire",
+          "n": 1
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Sapphire",
+          "n": 3
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Sapphire",
+          "n": 5
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ],
+      [
+        {
+          "item": "Sapphire",
+          "n": 10
+        },
+        {
+          "item": "Star Fragment",
+          "n": 1
+        }
+      ]
+    ]
+  }
+}
