@@ -5,9 +5,9 @@ sortable_tables:
 - arrows
 ---
 
-<p>Click on any heading to sort (reload to remove sorting). Hover
-over any multiple-arrow price to do the math for the per-arrow
-price.
+<p>Click on any heading to sort (reload to remove sorting). Hover over
+(or tap, on mobile devices) any multiple-arrow price to do the math for
+the per-arrow price.
 
 <table id="arrows">
   <tr data-sort-method="none">
@@ -173,13 +173,16 @@ price.
 </ul>
 
 <script>
-  document.querySelectorAll('#arrow-prices td').forEach(function(td) {
+  document.querySelectorAll('#arrows td').forEach(function(td) {
     var m = td.innerText.match(/^(\d+)\/(\d+)$/)
     if (m) {
       perArrowPrice = parseInt(m[1], 10) / parseInt(m[2], 10);
-      td.setAttribute('title', perArrowPrice);
+      td.setAttribute('title', perArrowPrice + ' each');
       td.setAttribute('data-sort', perArrowPrice);
       td.innerHTML = m[1] + '<wbr>/<wbr>' + m[2];
+      td.addEventListener('touchstart', function() {
+        td.classList.toggle('touched');
+      });
     }
   });
 </script>

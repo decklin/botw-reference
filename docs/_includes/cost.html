@@ -1,8 +1,7 @@
       <td class="cost">
         {% for u in include.upgrades[include.level] %}
-          <span title="{{ u.n }} {{ u.item }}">{{ u.n }}
-            <i class="ra ra-lg {{ site.data.item_icons[u.item].glyph }} item-{{ u.item | slugify }}"></i>
-          </span>
+          {{ u.n }} <i  title="{{ u.item }}"
+            class="ra ra-lg {{ site.data.item_icons[u.item].glyph }} item-{{ u.item | slugify }}"></i>
           <br>
         {% endfor %}
       </td>

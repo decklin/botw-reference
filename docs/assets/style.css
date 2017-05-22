@@ -77,3 +77,11 @@ th.corner, td {
 #armor .bonus, #armor .set-bonus {
   font-size: 75%;
 }
+
+.touched:after {
+  /* not a child of the existing document so doesn't inherit font, I guess */
+  font-family: 'Cantarell', sans-serif;
+  font-size: 8pt;
+  content: " " attr(title);
+  user-select: none;
+}

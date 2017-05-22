@@ -7,8 +7,9 @@ sortable_tables:
 
 <link rel="stylesheet" href="/assets/armor.css">
 
-This is a list of upgradable armor only. Hover over icons to see their
-full item names. For uncolored dragon icons, see below.
+This is a list of upgradable armor only. Hover over icons (or tap
+anywhere on the table cell, on mobile devices) to see full item names.
+For uncolored dragon icons, see below.
 
 <table id="armor">
   <tr data-sort-method="none">
@@ -79,3 +80,13 @@ with the exception that some non-upgradeable sets also have set bonuses:
 
 In addition to the normal piece bonus for the Zora Set, the armor
 enables the Swim Upward ability and the helm enables Spin Attack.
+
+<script>
+document.querySelectorAll('td.cost').forEach(function(td) {
+  td.addEventListener('touchstart', function() {
+    td.querySelectorAll('i.ra').forEach(function(i) {
+      i.classList.toggle('touched');
+    });
+  });
+});
+</script>
