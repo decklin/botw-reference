@@ -55,6 +55,8 @@ Elsewhere on the web you might find most items listed by their base
 defense, but this causes an ambiguity between the slightly-nerfed-at-max
 Topaz Earrings and the rest of the 3 → 20 schedule.
 
+Non-upgradeable armor generally has a defense value of 1 or 3.
+
 ### Dragon Upgrades
 
 The Set of the Wild and Fierce Deity Set require a different dragon's
@@ -67,8 +69,6 @@ item depending on the piece:
 | Trousers/Boots | Dinraal | Farosh
 
 ### Other Bonuses
-
-Non-upgradeable armor generally has a defense value of 1 or 3.
 
 Set bonuses apply after the entire set is upgraded at least twice (★★),
 with the exception that some non-upgradeable sets also have set bonuses:
